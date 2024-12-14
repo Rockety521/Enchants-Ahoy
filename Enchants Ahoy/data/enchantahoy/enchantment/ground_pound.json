@@ -1,0 +1,38 @@
+{
+  "description": "Ground Pound",
+  "exclusive_set": "enchantahoy:hover_boots",
+  "supported_items": [
+    "minecraft:netherite_boots",
+    "minecraft:diamond_boots",
+    "minecraft:golden_boots",
+    "minecraft:iron_boots",
+    "minecraft:chainmail_boots",
+    "minecraft:leather_boots",
+    "minecraft:book",
+    "minecraft:enchanted_book"
+  ],
+  "weight": 1,
+  "max_level": 1,
+  "min_cost": {
+    "base": 16,
+    "per_level_above_first": 4
+  },
+  "max_cost": {
+    "base": 20,
+    "per_level_above_first": 4
+  },
+  "anvil_cost": 11,
+  "slots": [
+    "feet"
+  ],
+  "effects": {
+    "minecraft:tick": [
+      {
+        "effect": {
+          "type": "minecraft:run_function",
+          "function": "enchantahoy:ground_pound/ground_pound"
+        }
+      }
+    ]
+  }
+}

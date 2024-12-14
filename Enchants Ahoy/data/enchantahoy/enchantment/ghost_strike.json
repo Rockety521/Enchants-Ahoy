@@ -1,0 +1,35 @@
+{
+    "description": "Ghost strike",
+    "exclusive_set": [],
+    "supported_items": [
+      "minecraft:totem_of_undying",
+      "minecraft:shield",
+      "minecraft:book",
+      "minecraft:enchanted_book"
+    ],
+    "primary_items": [],
+    "weight": 1,
+    "max_level": 1,
+    "min_cost": {
+      "base": 18,
+      "per_level_above_first": 3
+    },
+    "max_cost": {
+      "base": 19,
+      "per_level_above_first": 4
+    },
+    "anvil_cost": 2,
+    "slots": [
+      "offhand"
+    ],
+    "effects": {
+      "minecraft:tick": [
+        {
+          "effect": {
+            "type": "minecraft:run_function",
+            "function": "enchantahoy:ghost_strike/ghost_strike"
+          }
+        }
+      ]
+    }
+  }

@@ -1,0 +1,22 @@
+{
+    "criteria": {
+      "tick": {
+        "trigger": "minecraft:tick"
+      }
+    },
+    "display": {
+      "description": {
+        "text": "Have the Enchants Ahoy datapack installed"
+      },
+      "icon": {
+        "count": 1,
+        "id": "minecraft:enchanted_book"
+      },
+      "title": {
+        "text": "Enchants Ahoy!"
+      },
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "requirements": []
+  }

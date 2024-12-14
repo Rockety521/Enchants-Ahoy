@@ -1,0 +1,50 @@
+{
+  "description": "Curse of Recoil",
+  "exclusive_set": "minecraft:thorns",
+  "supported_items": [
+    "minecraft:wooden_sword",
+    "minecraft:stone_sword",
+    "minecraft:golden_sword",
+    "minecraft:iron_sword",
+    "minecraft:diamond_sword",
+    "minecraft:netherite_sword",
+    "minecraft:wooden_axe",
+    "minecraft:golden_axe",
+    "minecraft:iron_axe",
+    "minecraft:diamond_axe",
+    "minecraft:netherite_axe",
+    "minecraft:bow",
+    "minecraft:crossbow",
+    "minecraft:book",
+    "minecraft:enchanted_book"
+  ],
+  "primary_items": [],
+  "weight": 1,
+  "max_level": 1,
+  "min_cost": {
+    "base": 31,
+    "per_level_above_first": 3
+  },
+  "max_cost": {
+    "base": 32,
+    "per_level_above_first": 5
+  },
+  "anvil_cost": 7,
+  "slots": [
+    "any"
+  ],
+  "effects": {
+    "minecraft:post_attack": [
+      {
+        "effect": {
+          "type": "minecraft:damage_entity",
+          "damage_type": "minecraft:thorns",
+          "min_damage": 2,
+          "max_damage": 6
+        },
+        "enchanted": "attacker",
+        "affected": "attacker"
+      }
+    ]
+  }
+}

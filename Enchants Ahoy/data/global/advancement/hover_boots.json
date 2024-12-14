@@ -1,0 +1,35 @@
+{
+    "criteria": {
+      "trigger": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": "#minecraft:enchantable/foot_armor",
+              "components": {
+                "minecraft:enchantments": {}
+              }
+            }
+          ]
+        }
+      }
+    },
+    "display": {
+      "description": {
+        "text": "Enchant boots into hover boots"
+      },
+      "icon": {
+        "components": {
+          "minecraft:dyed_color": {
+            "rgb": 16774696
+          }
+        },
+        "count": 1,
+        "id": "minecraft:leather_boots"
+      },
+      "title": {
+        "text": "Hover boots"
+      }
+    },
+    "requirements": []
+  }

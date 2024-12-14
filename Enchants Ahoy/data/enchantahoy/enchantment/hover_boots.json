@@ -1,0 +1,39 @@
+{
+  "description": "Hover Step",
+  "exclusive_set": "minecraft:frost_walker",
+  "supported_items": [
+    "minecraft:leather_boots",
+    "minecraft:chainmail_boots",
+    "minecraft:iron_boots",
+    "minecraft:golden_boots",
+    "minecraft:diamond_boots",
+    "minecraft:netherite_boots",
+    "book",
+    "minecraft:enchanted_book"
+  ],
+  "primary_items": [],
+  "weight": 1,
+  "max_level": 3,
+  "min_cost": {
+    "base": 31,
+    "per_level_above_first": 3
+  },
+  "max_cost": {
+    "base": 32,
+    "per_level_above_first": 5
+  },
+  "anvil_cost": 7,
+  "slots": [
+    "feet"
+  ],
+  "effects": {
+    "minecraft:tick": [
+      {
+        "effect": {
+          "type": "minecraft:run_function",
+          "function": "enchantahoy:hover_boots/hover_boots"
+        }
+      }
+    ]
+  }
+}
