@@ -4,7 +4,7 @@ These range from passive health-recovery enchantments up to active ground pounds
 It's still a W.I.P. My main objective is to have at least 15'ish enchantments before ending support.
 But even when I do end support, who knows? I might get bored and add some more.
 
-Also, currently, the enchantments don't seem to work with vanilla enchantments. My bad for that. Might fix it, might not, who knows?
+Also, currently, some enchantments don't to work with vanilla enchantments. My bad for that. Might fix it, might not, who knows?
 
 ## Current enchantments (5/15)
 These are listed in alphabetical order.
