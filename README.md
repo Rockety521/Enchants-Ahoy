@@ -32,7 +32,7 @@ This curse makes it so, whenever you hit an entity, you get damaged back. Kind o
 
 Footnotes:
 
-[^1]: Inspired by Mario's Ground Pound
+[^1]: Inspired by the [Goron Pound](https://www.zeldadungeon.net/wiki/Goron_Pound)
 [^2]: I'm sorry item frame haters, you won't be recovering any health... Bet you envy armor stand haters tho
 [^3]: Called "hover_boots" on the files, because they're based on, you guessed it, [Hover Boots](https://zeldawiki.wiki/wiki/Hover_Boots)
 [^4]: 1.65 seconds at level 1, 3.30 seconds at level 2, 5 seconds at level 3.
