@@ -13,7 +13,7 @@ Also, currently, some enchantments don't to work with vanilla enchantments. My b
 ## Current enchantments (5/15)
 These are listed in alphabetical order.
 
-### Climber's grace (Don't forget to add to repo)
+### Climber's grace
 
 Supported by chestplates, this enchantment let's you climb for up to 10[^1] seconds while close to a block and looking straight at it.
 Not only that, you also get a last jump, wich will let you get a little bit more height and maybe even get on top of a tall structure you'd not be able to with only 10 seconds?   
