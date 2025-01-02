@@ -37,7 +37,7 @@ There's only explanation down here. Don't be a nerd and follow the sidebar!
 
 
 
-So, you're a nerd who likes to read the code, huh?
+So, you're a nerd who likes to read the code notes, huh?
 Welp, you will get what you want.
 
 (Also, please don't get insulted by the "nerd" part, I'm a nerd too, xD)
