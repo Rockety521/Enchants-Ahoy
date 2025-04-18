@@ -1,6 +1,5 @@
 Ahoy, dear reader!
 Before everything, this datapack is free and open source.
-So, if you paid for it, you got SCAMMED.
 If you want to download it, go to planetminecraft.com/(fill later, don't forget...)
 Or you can download it from my GitHub page: https://github.com/Rockety521/Enchants-Ahoy
 
