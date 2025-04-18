@@ -10,7 +10,7 @@ But even when I do end support, who knows? I might get bored and add some more.
 
 Also, currently, some enchantments don't to work with vanilla enchantments. My bad for that. Might fix it, might not, who knows?
 
-## Current enchantments (5/15)
+## Current enchantments (6/15)
 These are listed in alphabetical order.
 
 ### Climber's grace
